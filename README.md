@@ -15,7 +15,7 @@
 
 ------------------------------------------------------------------------
 <p align="center">
-  <img src=".\comment.png" width="200" alt="My Photo"/>
+  <img src="comments.png" width="200" alt="My Photo"/>
 </p>
 
 ## 🧠 About
