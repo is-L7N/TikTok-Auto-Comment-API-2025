@@ -22,7 +22,7 @@ This powerful API tool enables **automatic TikTok comments** from
 
 ✔ **No proxy needed**\
 ✔ **No bans / No limits**\
-✔ **Latest Signature (X-Gorgon / X-Ladon) support**\
+✔ **Latest Signature (X-Gorgon / X-Argus / etc..) support**\
 ✔ **Works with both your posts and others' posts**\
 ✔ **Generates Device IDs & Install IDs with zero risk**
 
